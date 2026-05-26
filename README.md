@@ -91,7 +91,7 @@ Add your application screenshots here.
 
 ## Author
 
-Waqas Mansoor
+Muhammad Ibrahim
 
 ## License
 
