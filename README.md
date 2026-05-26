@@ -45,7 +45,7 @@ Make sure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+https://github.com/ibrahim-codes1/Flutter-mBox.git
 ```
 
 Go to the project directory:
